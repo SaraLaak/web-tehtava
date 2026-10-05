@@ -41,6 +41,7 @@ Well, do I have [the website for you][another fun place]!
 
 ![Black cat][Black]
 ![Orange cat][Orange]
+
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]: https://upload.wikimedia.org/wikipedia/commons/4/4f/Kitty_emoji.png
 
